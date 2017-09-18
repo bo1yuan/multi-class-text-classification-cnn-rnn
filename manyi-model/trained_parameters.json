@@ -1,0 +1,14 @@
+{
+    "batch_size": 256, 
+    "dropout_keep_prob": 0.5, 
+    "embedding_dim": 200, 
+    "evaluate_every": 5, 
+    "filter_sizes": "3,4,5", 
+    "hidden_unit": 500, 
+    "l2_reg_lambda": 0.001, 
+    "max_pool_size": 4, 
+    "non_static": true, 
+    "num_epochs": 450, 
+    "num_filters": 200, 
+    "sequence_length": 231
+}
